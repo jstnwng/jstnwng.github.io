@@ -48,3 +48,30 @@ body {
 	/* Background styles */
     background-color:rgba(100,192,192,192);
 }
+.links {
+  width: 100vw;
+  height: 20vh;
+  font-size: 25px;
+  /* Flexbox stuff */
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.fa {
+  width: 25px;
+  padding: 25px;
+  background: #2c4762;
+  color: white;   
+  text-decoration: none;
+  margin: 1150px 20px;
+  text-align: center;
+  border-radius: 50%;
+
+}
+
+
+
+
+
+
+
